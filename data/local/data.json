@@ -1,0 +1,19 @@
+{
+    "frota": [
+        {
+            "number": "1",
+            "name": "SUV",
+            "city": "Viana do Castelo",
+            "price": 50
+        }
+    ],
+    
+    "lojas": [
+        {
+            "number": "1",
+            "name": "Loja 1",
+            "city": "Viana do Castelo",
+            "address": "Rua 1, 1234-567"
+        }
+    ]
+}
